@@ -3,6 +3,6 @@
 
 Introdução as 3 princiapais tecnologias utilizadas para pratica do desenvolvimento front-end sendo elas HTML, CSS e JS.
 
-:page_with_curl: Utilizando o basico para formatar o HTML, utilização de cor pelo CSS e interação com o botão através de JS :page_with_curl:
+:page_with_curl:Utilizando o basico para formatar o HTML, utilização de cor pelo CSS e interação com o botão através de JS:page_with_curl:
 
-:pushpin: confere aqui: https://willmpaim.github.io/fundamentos-front-end/
+:pushpin:Confere aqui: https://willmpaim.github.io/fundamentos-front-end/
