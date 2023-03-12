@@ -5,4 +5,4 @@ Introdução as 3 princiapais tecnologias utilizadas para pratica do desenvolvim
 
 :page_with_curl: Utilizando o basico para formatar o HTML, utilização de cor pelo CSS e interação com o botão através de JS :page_with_curl:
 
-:pushpin: confere aqui:
+:pushpin: confere aqui: https://willmpaim.github.io/fundamentos-front-end/
